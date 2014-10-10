@@ -1,0 +1,11 @@
+D:\Projects\CustomSerialization\CustomSerialization\bin\Debug\CustomSerialization.exe.config
+D:\Projects\CustomSerialization\CustomSerialization\bin\Debug\CustomSerialization.exe
+D:\Projects\CustomSerialization\CustomSerialization\bin\Debug\CustomSerialization.pdb
+D:\Projects\CustomSerialization\CustomSerialization\obj\Debug\CustomSerialization.exe
+D:\Projects\CustomSerialization\CustomSerialization\obj\Debug\CustomSerialization.pdb
+D:\Serialization Research\test project\CustomSerialization\CustomSerialization\bin\Debug\CustomSerialization.exe.config
+D:\Serialization Research\test project\CustomSerialization\CustomSerialization\obj\Debug\CustomSerialization.exe
+D:\Serialization Research\test project\CustomSerialization\CustomSerialization\obj\Debug\CustomSerialization.pdb
+D:\Serialization Research\test project\CustomSerialization\CustomSerialization\bin\Debug\CustomSerialization.exe
+D:\Serialization Research\test project\CustomSerialization\CustomSerialization\bin\Debug\CustomSerialization.pdb
+D:\Serialization Research\test project\CustomSerialization\CustomSerialization\obj\Debug\CustomSerialization.csprojResolveAssemblyReference.cache
